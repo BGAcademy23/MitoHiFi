@@ -5,3 +5,5 @@ tasks:
     mkdir -p /workspace/examples
     cd /workspace/examples
     git clone https://github.com/marcelauliano/MitoHiFi
+
+workspaceLocation: "/workspace"
