@@ -2,5 +2,6 @@ image: ghcr.io/marcelauliano/mitohifi:master
 tasks:
 - name: git clone
   command: |
-    cd /workspace
+    mkdir -p /workspace/examples
+    cd /workspace/examples
     git clone https://github.com/marcelauliano/MitoHiFi
