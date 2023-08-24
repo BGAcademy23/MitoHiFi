@@ -4,7 +4,8 @@ edit_uri: https://github.com/bgacademy23/MitoHiFi/blob/main/docs
 nav:
     - Home: README.md
     - BGA23: https://bga23.org
-
+    - Tutorial: tutorial.md
+    
 theme:
     name: material
     language: en

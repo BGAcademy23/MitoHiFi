@@ -16,6 +16,8 @@ By the end of this session you will be able to:
 3. Understand intermediate outputs
 4. Cases where the pipeline fails
 
+## [Tutorial](tutorial.md)
+
 ## Prerequisites
 
 1. Understand the terms genome assembly, reads, contigs, PacBio HiFi
