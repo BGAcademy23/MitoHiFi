@@ -5,5 +5,7 @@ tasks:
     mkdir -p /workspace/examples
     cd /workspace/examples
     git clone https://github.com/marcelauliano/MitoHiFi
-
+    unset JAVA_TOOL_OPTIONS
+    bash
+    
 workspaceLocation: "/workspace"
