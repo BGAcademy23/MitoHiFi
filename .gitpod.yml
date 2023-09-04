@@ -9,8 +9,6 @@ tasks:
     bash
     cd /workspace
     curl ftp://ftp.ed.ac.uk/incoming/lecture.tgz | tar xzf -
-    
-workspaceLocation: "/workspace"
 
 vscode:
   extensions:
