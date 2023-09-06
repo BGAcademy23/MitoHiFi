@@ -31,7 +31,7 @@ By the end of this session you will be able to:
 
  ## Connecting to gitpod for the session
 
-**[Click here to launch a Gitpod workspace with MitoHiFo](http://gitpod.io/#https://github.com/BGAcademy23/MitoHiFi)**
+**[Click here to launch a Gitpod workspace with MitoHiFi](http://gitpod.io/#https://github.com/BGAcademy23/MitoHiFi)**
 
 
 ## Commands for the session
