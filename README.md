@@ -29,6 +29,10 @@ By the end of this session you will be able to:
     
     If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email tol-training at sanger.ac.uk to cancel your slot so that someone else on the waitlist might attend.
 
+ ## Connecting to gitpod for the session
+
+**[Click here to launch a Gitpod workspace with MitoHiFo](http://gitpod.io/#https://github.com/BGAcademy23/MitoHiFi)**
+
 
 ## Commands for the session
 
